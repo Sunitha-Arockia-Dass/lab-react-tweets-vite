@@ -6,7 +6,6 @@ function Tweet() {
         className="profile"
         alt="profile"
       />
-
       <div className="body">
         <div className="top">
           <span className="user">
